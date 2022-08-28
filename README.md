@@ -1,7 +1,7 @@
 # kickstarter-analysis_NM
 ## Performing analysis on Kickstarter data to uncover trends (8.21.2022)
 ---
-I would like to share my analysis for Louis to start his crowd funding campaign.
+I would like to share my analysis for Louise to start his crowd funding campaign.
 
 First, as seen in the chart below about 65% of the crowd funding for theaters are successul.
 ![Parent Category Outcomes_US_01](https://user-images.githubusercontent.com/110373282/187087976-4d9ac450-93fa-4d86-a1be-bbd5df8b9f6e.png)
@@ -20,7 +20,7 @@ As you can see from the chart the Mean of each Successful and Failed funding is 
 But if we take a look at the Standard Deviation, the Successful funding is about 2 times the IQR, Failed fundings are almost 3 times.
 Per this observation, we could say that Louis should lower his funding goal between $7,500 to $5,000.
 
-To conclude my analysis, Louis should start the crowd funding for the play in the US either May or June with the goal amount in between $5,000 to $7,500.
+To conclude my analysis, Louise should start the crowd funding for the play in the US either May or June with the goal amount in between $5,000 to $7,500.
 
 *Per Louis's intersest in the Edinburgh's successes, 
 
